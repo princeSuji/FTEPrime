@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report>
+    <Component>
+        <Type>1</Type>
+        <Label>CC-Outliers</Label>
+        <Total_Count>34</Total_Count>
+        <Description>#</Description>
+        <PayPeriod_Count>5</PayPeriod_Count>
+        <Value_Change>1</Value_Change>
+        <YTD_Value_Change>3</YTD_Value_Change>
+        <YTD_Value>9</YTD_Value>
+    </Component>
+    <Component>
+        <Type>1</Type>
+        <Label>FTEs</Label>
+        <Total_Count>45</Total_Count>
+        <Description>Variance #</Description>
+        <PayPeriod_Count>7.5</PayPeriod_Count>
+        <Value_Change>2</Value_Change>
+        <YTD_Value_Change>4</YTD_Value_Change>
+        <YTD_Value>12</YTD_Value>
+    </Component>
+    <Component>
+        <Type>1</Type>
+        <Label>Wages</Label>
+        <Total_Count>34</Total_Count>
+        <Description>Variance $</Description>
+        <PayPeriod_Count>223</PayPeriod_Count>
+        <Value_Change>1</Value_Change>
+        <YTD_Value_Change>4</YTD_Value_Change>
+        <YTD_Value>5643</YTD_Value>
+    </Component>
+    <Component>
+        <Type>2</Type>
+        <Label>Efficiency</Label>
+        <Value1>69</Value1>
+        <Value1Label>25%</Value1Label>
+        <Value2>81</Value2>
+        <Value2Label>50%</Value2Label>
+        <Value3>96</Value3>
+        <Value3Label>75%</Value3Label>
+    </Component>
+    <Component>
+        <Type>2</Type>
+        <Label>Managers</Label>
+        <Value1>6</Value1>
+        <Value1Label>95%</Value1Label>
+        <Value2>8</Value2>
+        <Value2Label>95%-105%</Value2Label>
+        <Value3>3</Value3>
+        <Value3Label>105%</Value3Label>
+    </Component>
+    <Component>
+        <Type>3</Type>
+        <Label>Efficiency Comparison</Label>
+        <efef>10</efef>
+        <effte>7</effte>
+        <efProd>3</efProd>
+        <fteef>1</fteef>
+        <ftefte>10</ftefte>
+        <fteProd>4</fteProd>
+        <prodef>2</prodef>
+        <prodfte>3</prodfte>
+        <prodprod>10</prodprod>
+    </Component>
+    <Component>
+        <Type>4</Type>
+        <Label>Manager Productivity</Label>
+        <Title>0%-25%</Title>
+        <Qty>14</Qty>
+        <Title>26%-50%</Title>
+        <Qty>12</Qty>
+        <Title>51%-75%</Title>
+        <Qty>26</Qty>
+        <Title>76%-100%</Title>
+        <Qty>18</Qty>
+    </Component>
+</Report>
